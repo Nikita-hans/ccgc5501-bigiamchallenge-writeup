@@ -4,7 +4,7 @@
 1. Create an AWS Account:
 I started by creating a free AWS account. For security purposes, it's a good idea to use a separate account specifically for testing, rather than using a production account.
 
-2.Create a Non-Root IAM User:
+2. Create a Non-Root IAM User:
 I created a non-root IAM user with administrator access. This is a best practice, as it helps reduce the risk of exposure if any credentials are compromised.
 
 3. Generate an Access Key for the IAM User:
