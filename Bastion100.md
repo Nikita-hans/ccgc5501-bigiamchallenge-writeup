@@ -2,7 +2,7 @@
 
 ## Solution - Detailed Steps
 
-### Enable the Bastion Host in Terraform
+
 
 1. To enable the Bastion Host, I went to the `terraform.tfvars` file located in the `cloudfoxable/aws/` directory. Add the following line:
 
